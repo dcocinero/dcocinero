@@ -2,7 +2,7 @@
 I'm a Systems and Computing Engineering student at the National University of Colombia. I have a passion for cybersecurity and I'm always on the lookout for new knowledge and techniques to deepen my understanding in this field. Additionally, I'm a Linux enthusiast, which allows me to creatively and efficiently experiment with and optimize my development environments.<br><br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dcocinero) 
 
 # 💻 Tech Stack:
